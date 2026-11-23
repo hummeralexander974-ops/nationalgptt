@@ -1,0 +1,11 @@
+
+{
+  "name": "nationalgpt",
+  "short_name": "nationalgpt",
+  "description": "Deine lokale KI auf dem iPhone",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#d71920",
+  "orientation": "portrait"
+}
